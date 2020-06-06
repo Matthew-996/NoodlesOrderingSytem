@@ -1,0 +1,16 @@
+Selection of basic ingredients:
+	Soup: Tonkotsu
+	Noodles: Medium
+	Spring Onion: No please
+	Nori: No
+	Chashu: Yes
+	Boiled egg: No
+	Spiciness level: 1
+Add-ons:
+	Extra Nori: Yes
+	Extra boiled egg: No
+	Bamboo shoots: No
+	Extra Chashu: Yes
+Total Price: 11.99
+Taking away or not: Yes
+Create Time: 2020-05-22 15:22:31.
